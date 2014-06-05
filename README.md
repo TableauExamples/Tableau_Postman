@@ -15,6 +15,8 @@ Most calls require IDs for objects. For instance if you want to find out what wo
 
 All of these functions are present in this collection, but you must replace the authToken and IDs that appear and also the server url/ip to point it at your installation of Tableau Server.
 
+For more information see the file titled API Reference.pdf
+
 ###Warning
 This collection is not officially 'blessed' by Tableau Engineering or Support.
 What does that mean? We didn't have a qa team test it. It's a tool for learning how to use the REST API and shouldn't be used for more than that.
