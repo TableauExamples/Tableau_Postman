@@ -14,3 +14,12 @@ The documentation is your friend. This collection is not a replacement for that,
 Most calls require IDs for objects. For instance if you want to find out what workbooks were published by a specific user on a specific site, you will need to query the site to find it's id and then you will need to query the users on that site to find the id of the specific user.
 
 All of these functions are present in this collection, but you must replace the authToken and IDs that appear and also the server url/ip to point it at your installation of Tableau Server.
+
+###Warning
+This collection is not officially 'blessed' by Tableau Engineering or Support.
+What does that mean? We didn't have a qa team test it. It's a tool for learning how to use the REST API and shouldn't be used for more than that.
+You should not expect that there are 0 bugs.
+
+If you have problems getting it to work, feel free to Email us with questions, but we won't promise quick responses.
+
+Sorry =)
