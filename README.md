@@ -1,7 +1,7 @@
 ##Postman Collection for Tableau's REST API
 ================
 
-This is a .json for importing into [Postman](http://www.getpostman.com/), a tool for making HTTP requests via the browser.
+This is a .json file for importing into [Postman](http://www.getpostman.com/), a tool for making HTTP requests via the browser.
 
 To import, open Postman, click on the Collections tab in the upper-left hand corner and click the Import Collection icon.
 
