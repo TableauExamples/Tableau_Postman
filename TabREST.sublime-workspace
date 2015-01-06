@@ -1,0 +1,539 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"aut",
+				"authToken"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/tabJSONtest.js",
+			"settings":
+			{
+				"buffer_size": 1441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mkovner/Dropbox/Extract API Training Videos/(02) csv2TDE.py",
+			"settings":
+			{
+				"buffer_size": 1498,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/tabRESTJSON.js",
+			"settings":
+			{
+				"buffer_size": 1890,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/package.json",
+			"settings":
+			{
+				"buffer_size": 404,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/tabREST.js",
+			"settings":
+			{
+				"buffer_size": 13423,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/tabRESTtest.js",
+			"settings":
+			{
+				"buffer_size": 2473,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"new",
+				"File: New View into File"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"new file",
+				"File: New View into File"
+			],
+			[
+				"add ",
+				"Project: Add Folder"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST"
+	],
+	"file_history":
+	[
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/tabRESTJSON.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/README.md",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/tabREST.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/public/stylesheets/users.css",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/views/users.ejs",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/views/user.ejs",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/views/index.ejs",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/app.js",
+		"/Users/mkovner/Documents/Coding/REST API/PostMan/README.md",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/README.md",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/RestAPIVid.sublime-project",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/public/stylesheets/rest-tutorial.css",
+		"/Users/mkovner/Documents/Coding/Scripts and Html/JS API v8 Examples/Skeleton.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/app.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/package.json",
+		"/Users/mkovner/Documents/Coding/PostMan_RESTCollection",
+		"/Applications/cDock.app/Contents/Resources/premade/dark copy.txt",
+		"/Users/mkovner/Documents/Coding/RussellsPOSTMAN.json",
+		"/Users/mkovner/Library/Application Support/KeyRemap4MacBook/private.xml",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/views/addUser.ejs",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/express/node_modules/mkdirp/test/umask_sync.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/users_.ejs",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/users.ejs",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/package.json",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/views/index.ejs",
+		"/Users/mkovner/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/mkovner/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/node_modules/express/Readme.md",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/lib/source-map/array-set.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/test/compress/labels.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/ejs/examples/client.html",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/jade/component.json",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/optimist/example/usage-options.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/request/lib/getSafe.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/express/node_modules/connect/node_modules/serve-index/node_modules/negotiator/lib/mediaType.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/express/node_modules/connect/node_modules/serve-index/node_modules/negotiator/examples/encoding.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Vid/index.ejs",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/xml-writer/test/namespaces.js",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/ejs/test/fixtures/newlines.ejs",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/request/node_modules/tough-cookie/public-suffix.txt",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/node_modules/jade/node_modules/constantinople/node_modules/uglify-js/node_modules/source-map/build/prefix-utils.jsm",
+		"/Users/mkovner/.bash_profile",
+		"/Users/mkovner/Documents/Coding/Sites/node_projects/REST-API-Demo/Procfile",
+		"/Users/mkovner/Library/Caches/TemporaryItems/Outlook Temp/sharing_metadata.xml",
+		"/Volumes/C/ProgramData/Tableau/Tableau Server/data/tabsvc/config/workgroup.yml"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"admin",
+			"rest",
+			"mkovner",
+			"mkovner-vm",
+			"userIDs2",
+			"users",
+			"usersList",
+			"loginErr",
+			"filterevent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/tabJSONtest.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								889,
+								889
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/mkovner/Dropbox/Extract API Training Videos/(02) csv2TDE.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1498,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								790,
+								790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/tabRESTJSON.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1890,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1111,
+								1111
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								380,
+								380
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/tabREST.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7636,
+								7636
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2995.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/mkovner/Documents/Coding/Sites/node_projects/tabREST/tabRESTtest.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "TabREST.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"read",
+				"REST-API-Vid/README.md"
+			],
+			[
+				"app.",
+				"REST-API-Vid/app.js"
+			],
+			[
+				"app",
+				"REST-API-Demo/app.js"
+			],
+			[
+				"app.js",
+				"REST-API-Demo/app.js"
+			],
+			[
+				"user.ejs",
+				"REST-API-Vid/views/user.ejs"
+			],
+			[
+				"rest",
+				"REST-API-Vid/public/stylesheets/rest-tutorial.css"
+			],
+			[
+				"users.cs",
+				"REST-API-Vid/public/stylesheets/users.css"
+			],
+			[
+				"users",
+				"REST-API-Vid/users.ejs"
+			],
+			[
+				"ind",
+				"REST-API-Vid/views/index.ejs"
+			],
+			[
+				"index",
+				"REST-API-Vid/views/index.ejs"
+			],
+			[
+				"pa",
+				"REST-API-Vid/package.json"
+			],
+			[
+				"index.ejs",
+				"REST-API-Demo/views/index.ejs"
+			],
+			[
+				"pak",
+				"REST-API-Demo/package.json"
+			],
+			[
+				"pack",
+				"REST-API-Vid/package.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "\n						",
+		"_vintageous_last_char_search_command": "vi_big_f",
+		"_vintageous_last_character_search": "h",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/Users/mkovner/Library/Application Support/Sublime Text 3/Packages"
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
