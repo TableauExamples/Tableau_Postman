@@ -20,6 +20,7 @@ For more information see the file titled API Reference.pdf
 ### Updated for 9.0
 9.0 added many useful functions to the REST API including Project management, Group management, Permissions management, downloading, publishing, and more. This collection has been updated to reflect those changes.
 Note: The functions for publishing are in this collection, but POSTman will set the content-type to multipart/form-data, while the api is expecting multipart/mixed. So for using POSTman to test publishing, you can make the request from POSTman, it will fail, but then you can open the request in an application like Charles or Fiddler, modify the request to change it to multipart/mixed and it should work.
+Here is a [video on how to use POSTman plus Charles or Fiddler to publish.](http://youtu.be/hiYaekLuV4Q)
 
 ###Warning
 This collection is not officially 'blessed' by Tableau Engineering or Support.
