@@ -1558,7 +1558,7 @@
 						"header": [
 							{
 								"key": "X-Tableau-Auth",
-								"value": "ab55fe9cfacf85ccf034295c439aa0c1",
+								"value": "{{token}}",
 								"description": ""
 							}
 						],
@@ -2510,7 +2510,7 @@
 						"header": [
 							{
 								"key": "X-Tableau-Auth",
-								"value": "adeb77db5667c23ec9f05cba872487c6",
+								"value": "{{token}}",
 								"description": ""
 							}
 						],
@@ -2543,7 +2543,7 @@
 						"header": [
 							{
 								"key": "X-Tableau-Auth",
-								"value": "598d0a22fd282a761c1bf9e43ab0b010",
+								"value": "{{token}}",
 								"description": ""
 							}
 						],

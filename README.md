@@ -21,9 +21,9 @@ New since the 9.0 release, Postman now allows environment variables.  This is us
 Typically, (but not always), when there is a single or very few responses to a request they will be extracted.  When there are numerous objects returned is when you should manually set the variables.  For example, querying the server for a list of users will provide many different responses back.  In this case, you will need to highlight the ID of the object and set this (right click context menu=>set...) to userID and the name of the user to userName.  Clicking the "eye" in the upper-right will reveal the environment variables.  (Hint: the API never uses the literal strings, but setting them at the same time as the ID will let you quickly identify what ID is referenced.)    
 
 ### Updated for 10.0 (v2.3)
-10.0 further builds upon the REST API and supports revisions, data sources, schedules, and more.  
+10.0 further builds upon the REST API and supports revisions, data sources, schedules, and more.  To see a complete list of new features by release, read the [what's new.](https://onlinehelp.tableau.com/current/api/rest_api/en-us/help.htm#REST/rest_api_whats_new.htm)
 
-### Updated for 9.0
+### Updated for 9.0 (v2.0)
 9.0 added many useful functions to the REST API including Project management, Group management, Permissions management, downloading, publishing, and more. This collection has been updated to reflect those changes.
 
 ### Multi-part forms
