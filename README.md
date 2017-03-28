@@ -1,4 +1,4 @@
-##Postman Collection for Tableau's REST API for Tableau 10.0 (v2.3)
+## Postman Collection for Tableau's REST API for Tableau 10.0 (v2.3)
 ================
 
 There are two .json files for importing into [Postman](http://www.getpostman.com/), a tool for making HTTP requests via the browser.
