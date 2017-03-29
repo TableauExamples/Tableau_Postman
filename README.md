@@ -1,5 +1,4 @@
 ## Postman Collection for Tableau's REST API for Tableau 10.0 (v2.3)
-================
 
 There are two .json files for importing into [Postman](http://www.getpostman.com/), a tool for making HTTP requests via the browser.
 
@@ -30,7 +29,7 @@ Typically, (but not always), when there is a single or very few responses to a r
 Note: The functions for publishing are in this collection, but POSTman will set the content-type to multipart/form-data, while the api is expecting multipart/mixed. So for using POSTman to test publishing, you can make the request from POSTman, it will fail, but then you can open the request in an application like Charles or Fiddler, modify the request to change it to multipart/mixed and it should work.
 Here is a [video on how to use POSTman plus Charles or Fiddler to publish.](http://youtu.be/hiYaekLuV4Q)  (This video is from the 9.0 collection, but the techniques are still valid.)
 
-###Warning
+### Warning
 This collection is not officially 'blessed' by Tableau Engineering or Support.
 What does that mean? We didn't have a qa team test it. It's a tool for learning how to use the REST API and shouldn't be used for more than that.
 You should not expect that there are 0 bugs.
