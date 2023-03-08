@@ -1,14 +1,12 @@
- <center>
+  <br/>
 
- <br/>
-
->  <img src="warning_icon.png" width="50%" height="50%" alt="This repo is not maintained."><br/> <br/>Instead, try the **[Tableau REST API collection](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/12721794-7d783742-165f-4d10-8c4c-5719fb60fba2)** in the Salesforce Developer Postman workspace. This new collection is an up to date, community supported resource containing requests for each method, preconfigured with environment variables and other conveniences.<br/><br/> See [How to use the collection](#how-to-use-the-collection) to get started. <br/><br/>
+> ![This repo is not maintained.](warning_icon.png)<br/> <br/>Instead, try the **[Tableau REST API collection](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/12721794-7d783742-165f-4d10-8c4c-5719fb60fba2)** in the Salesforce Developer Postman workspace. This new collection is an up to date, community supported resource containing requests for each method, preconfigured with environment variables and other conveniences.<br/><br/> See [How to Use the Collection](https://github.com/tableau/tableau-postman/blob/main/README.md#how-to-use-the-collection) to get started. <br/><br/>
 
 <br/>
 ____________________
 
 <br>
-</center>
+
 
 ## Postman Collection for Tableau's REST API for Tableau 10.0 (v2.3)
 
