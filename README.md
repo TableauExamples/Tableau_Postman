@@ -1,8 +1,8 @@
  <center>
- 
+
  <br/>
 
->  <img src="warning_icon.png" width="50%" height="50%"><br/> <br/>Instead, try the **[Tableau REST API collection](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/12721794-7d783742-165f-4d10-8c4c-5719fb60fba2)** in the Salesforce Developer Postman workspace. This new collection is an up to date, community supported resource containing requests for each method, preconfigured with environment variables and other conveniences.<br/><br/> See [How to use the collection](#how-to-use-the-collection) to get started. <br/><br/>
+>  <img src="warning_icon.png" width="50%" height="50%" alt="This repo is not maintained."><br/> <br/>Instead, try the **[Tableau REST API collection](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/12721794-7d783742-165f-4d10-8c4c-5719fb60fba2)** in the Salesforce Developer Postman workspace. This new collection is an up to date, community supported resource containing requests for each method, preconfigured with environment variables and other conveniences.<br/><br/> See [How to use the collection](#how-to-use-the-collection) to get started. <br/><br/>
 
 <br/>
 ____________________
