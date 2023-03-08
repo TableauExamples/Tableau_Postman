@@ -1,6 +1,7 @@
-  <br/>
 
-> ![This repo is not maintained](/assets/warning_icon.png)<br/> <br/>Instead, try the **[Tableau REST API collection](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/12721794-7d783742-165f-4d10-8c4c-5719fb60fba2)** in the Salesforce Developer Postman workspace. This new collection is an up to date, community supported resource containing requests for each method, preconfigured with environment variables and other conveniences.<br/><br/> See [How to Use the Collection](https://github.com/tableau/tableau-postman/blob/main/README.md#how-to-use-the-collection) to get started. <br/><br/>
+> # _THIS REPO IS NOT MAINTAINED_
+
+> Instead, try the **[Tableau REST API collection](https://www.postman.com/salesforce-developers/workspace/salesforce-developers/collection/12721794-7d783742-165f-4d10-8c4c-5719fb60fba2)** in the Salesforce Developer Postman workspace. This new collection is an up to date, community supported resource containing requests for each method, preconfigured with environment variables and other conveniences.<br/><br/> See [How to Use the Collection](https://github.com/tableau/tableau-postman/blob/main/README.md#how-to-use-the-collection) to get started. <br/><br/>_March 2023_
 
 <br/>
 ____________________
